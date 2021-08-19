@@ -7,11 +7,11 @@ Author: Cong Le Van
 In the project directory, you can run:
 
 npm install
-*or
+### or
 yarn install
 
 
 ### Compiles and hot-reloads for development
 npm start
-*or
+### or
 yarn start
