@@ -11,6 +11,8 @@ Multiple Files Upload
 * High level description of design and technologies used
 
 * Back-end 
+  * Technology 
+    * Java 8 
   * Server side API : Using Java spring boot on the server with MySQL for the database (POST/GET/DELETE)
   
 * Front-end 
