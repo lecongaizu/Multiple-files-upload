@@ -8,13 +8,26 @@ Multiple Files Upload
 
 
 ## Overview system
-* High level description of design and technologies used
+
+* System Architecture
+![image](https://user-images.githubusercontent.com/17917747/131217705-cfb6595c-b4d7-4136-a45e-be046eb2b43a.png)
 
 * Back-end 
   * Technology 
     * Java 8 
-  * Server side API : Using Java spring boot on the server with MySQL for the database (POST/GET/DELETE)
+    * Spring boot 
+    * MySQL 
+    * Maven 3.6.1
+  * Server side API : Using Java spring boot on the server with MySQL for the database 
+    * POST /files: uploadFile()
+    * GET  /files: getListFiles()
+    * GET /files/{id}: getFile()
+    * DELETE /files/{id}: deleteFile()
   
 * Front-end 
+  * Technology 
+    * React 17
+    * Axios 0.21.1
+    * Bootstrap 5
   * Implementation web pages using a modern web framework React
 
