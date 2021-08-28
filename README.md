@@ -38,9 +38,10 @@ Multiple Files Upload
 
 ## Demo App 
 * Upload and list files
-![image](https://user-images.githubusercontent.com/17917747/131217783-bb6e3a51-d7d8-44c2-844b-7640bfbab9a7.png)
+![image](https://user-images.githubusercontent.com/17917747/131217814-dbe0c0a3-e459-44c2-855c-b5dc218ef974.png)
 
 * Delete file
-![image](https://user-images.githubusercontent.com/17917747/131217786-2bf9d863-2b12-4243-b3cc-facb5f138256.png)
+![image](https://user-images.githubusercontent.com/17917747/131217803-393b9a43-2806-4c94-a94a-26ec2b2f0425.png)
+
 
 
